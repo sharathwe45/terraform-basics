@@ -1,0 +1,5 @@
+.vscode
+ec2-basics/.terraform
+ec2-basics/terraform.*
+ec2-advanced/.terraform
+ec2-advanced/terraform.*
